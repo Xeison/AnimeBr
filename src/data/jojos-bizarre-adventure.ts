@@ -12,8 +12,7 @@ export const jojosBizarreAdventure: AnimeData = {
     {
       id: 1,
       title: "Episode 1: Dio the Invader",
-      videoUrl:
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      videoUrl: "/Traillers/803343252.mp4",
       thumbnail: "/images/JoJos_Bizarre_Adventure.jpg",
       duration: "24:00",
       progress: 0,
@@ -21,8 +20,7 @@ export const jojosBizarreAdventure: AnimeData = {
     {
       id: 2,
       title: "Episode 2: A Letter from the Past",
-      videoUrl:
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      videoUrl: "/Traillers/684545901.mp4",
       thumbnail: "/images/JoJos_Bizarre_Adventure.jpg",
       duration: "24:00",
       progress: 0,

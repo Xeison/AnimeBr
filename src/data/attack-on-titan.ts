@@ -12,8 +12,7 @@ export const attackOnTitan: AnimeData = {
     {
       id: 1,
       title: "Episode 1: To You, 2,000 Years From Now",
-      videoUrl:
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      videoUrl: "/Traillers/684545901.mp4",
       thumbnail: "/images/atacatitanov.webp",
       duration: "24:00",
       progress: 100,
@@ -21,8 +20,7 @@ export const attackOnTitan: AnimeData = {
     {
       id: 2,
       title: "Episode 2: That Day",
-      videoUrl:
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      videoUrl: "/Traillers/803343252.mp4",
       thumbnail: "/images/atacatitanov.webp",
       duration: "24:00",
       progress: 45,
@@ -30,8 +28,7 @@ export const attackOnTitan: AnimeData = {
     {
       id: 3,
       title: "Episode 3: A Dim Light Amid Despair",
-      videoUrl:
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      videoUrl: "/Traillers/684545901.mp4",
       thumbnail: "/images/atacatitanov.webp",
       duration: "24:00",
       progress: 0,

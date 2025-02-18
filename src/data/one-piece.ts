@@ -13,8 +13,7 @@ export const onePiece: AnimeData = {
       id: 1,
       title:
         "Episode 1: I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
-      videoUrl:
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      videoUrl: "/Traillers/803343252.mp4",
       thumbnail: "/images/onePiece.jpg",
       duration: "24:00",
       progress: 0,
@@ -23,8 +22,7 @@ export const onePiece: AnimeData = {
       id: 2,
       title:
         "Episode 2: Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!",
-      videoUrl:
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      videoUrl: "/Traillers/684545901.mp4",
       thumbnail: "/images/onePiece.jpg",
       duration: "24:00",
       progress: 0,

@@ -12,8 +12,7 @@ export const jujutsuKaisen: AnimeData = {
     {
       id: 1,
       title: "Episode 1: Ryomen Sukuna",
-      videoUrl:
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      videoUrl: "/Traillers/803343252.mp4",
       thumbnail: "/images/600x900.webp",
       duration: "24:00",
       progress: 0,
@@ -21,8 +20,7 @@ export const jujutsuKaisen: AnimeData = {
     {
       id: 2,
       title: "Episode 2: For Myself",
-      videoUrl:
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      videoUrl: "/Traillers/684545901.mp4",
       thumbnail: "/images/600x900.webp",
       duration: "24:00",
       progress: 0,

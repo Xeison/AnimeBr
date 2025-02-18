@@ -12,8 +12,7 @@ export const bleach: AnimeData = {
     {
       id: 1,
       title: "Episode 1: The Day I Became a Shinigami",
-      videoUrl:
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      videoUrl: "/Traillers/803343252.mp4",
       thumbnail: "/images/photo_2025-02-17_23-26-16.jpg",
       duration: "24:00",
       progress: 0,
@@ -21,8 +20,7 @@ export const bleach: AnimeData = {
     {
       id: 2,
       title: "Episode 2: A Shinigami's Work",
-      videoUrl:
-        "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      videoUrl: "/Traillers/684545901.mp4",
       thumbnail: "/images/photo_2025-02-17_23-26-16.jpg",
       duration: "24:00",
       progress: 0,
